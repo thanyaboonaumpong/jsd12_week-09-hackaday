@@ -1,0 +1,10 @@
+England: London
+France: Paris
+Germany: Berlin
+Italy: Rome
+Spain: Madrid
+Portugal: Lisbon
+Greece: Athens
+Switzerland: Bern
+Sweden: Stockholm
+Netherlands: Amsterdam
